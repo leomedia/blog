@@ -3,4 +3,6 @@
 
 Test of the different ways to put in pictures
 
+image::picture4[test]
+
 
