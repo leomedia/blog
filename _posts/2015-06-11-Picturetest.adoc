@@ -1,0 +1,7 @@
+= Picturetest
+:hp-tags: pictures, test
+
+Test of the different ways to put in pictures
+
+
+image::picture.jpg[]
