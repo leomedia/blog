@@ -2,4 +2,4 @@
 Ein erster Versuch, vorallem um das design anpassen zu können.
 A first try ...
 
-image::1920x1080.jpg[]
+image::picture.jpg[Test Picture]
