@@ -1,0 +1,10 @@
+{
+  "meta": {
+    "username": "leomedia",
+    "repositoryName": "blog",
+    "branch": "gh-pages"
+  },
+  "theme": {
+    "name": "Saga"
+  }
+}
