@@ -2,4 +2,4 @@
 Ein erster Versuch, vorallem um das design anpassen zu können.
 A first try ...
 
-image::picture.jpg[Test Picture]
+![Small image](/blog/images/picture.jpeg#small)
